@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Users/Emind/OneDrive/Documentos/Repo Gio/Los-Alemanes/Los_alemanes/Content/XRFramework/Levels/L_XRTemplate.umap",
+				"C:/Users/Emind/OneDrive/Documentos/Repo Gio/Los-Alemanes/Los_alemanes/Content/LevelPrototyping/Meshes/Estante.uasset",
+				"C:/Users/Emind/OneDrive/Documentos/Repo Gio/Los-Alemanes/Los_alemanes/Content/LevelPrototyping/Meshes/Mueble.uasset",
+				"C:/Users/Emind/OneDrive/Documentos/Repo Gio/Los-Alemanes/Los_alemanes/Content/BP_ObjetoAgarrable.uasset",
 				"C:/Users/Giovis/Los-Alemanes/Los_alemanes/Content/Nivel_principal.umap",
 				"C:/Users/Giovis/Los-Alemanes/Los_alemanes/Content/Nivel_principal_HLOD0_Instancing.uasset",
 				"C:/Users/Giovis/Los-Alemanes/Los_alemanes/Content/__ExternalActors__/Nivel_principal/7/UQ/0G336XPY315XQ8JJ9I975U.uasset",
